@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+
+# PACKAGES
+node_modules/
+
+# VAR
+data/*
